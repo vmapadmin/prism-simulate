@@ -1,0 +1,5 @@
+dist/
+all.js
+*.png
+__pycache__/
+*.zip
